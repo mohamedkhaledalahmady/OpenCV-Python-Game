@@ -7,10 +7,10 @@
     x &#x2192; represent distance between point (5) and (17) in image bellow
     y &#x2192; reprecent actual distance in centimeters
     this is one challenge of project to find relation to relate x and y, as relation is nonlinear
+<p style="text-align:center;">
+   <img src="images/hand_landmarks.png" alt="Logo" width="771.5" height="269">
+</p>
 
-  <p style="text-align:center;">
-        <img src="images/hand_landmarks.png" alt="Logo" width="771.5" height="269">
-  </p>   
 > ## Contents:
    * _game.py_ &#x2192; source code of game
    * _modules folder_ &#x2192; contain helper.py file taht contain some useful functions implemented 
