@@ -1,6 +1,6 @@
-SRCCODE = game
+SRCCODE = game.py
 defalut: run
 run:
 	@echo "Start Running"
-	@python game.py
+	@python $(SRCCODE)
 .PHONY : run
