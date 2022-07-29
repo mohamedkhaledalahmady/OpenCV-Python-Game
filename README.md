@@ -1,9 +1,10 @@
 
 # *OpenCV-Python-Game*
 > ## Game Description:
-   * By using OpenCV library with python, able to implement this game, it video game when game start your webcam          open and your work to push buttons that appear on screen. i used openCV and cvzone libraries with python to access      camera and detect position of hand.
+   * By using OpenCV library with python, able to implement this game, it video game when game start your webcam          
+   open and your work to push buttons that appear on screen. i used openCV and cvzone libraries with python to access camera and detect position of hand.
    * To calculate distance of hand from camera, i do sequence of trail and collect data between x and y, where
-    x &#x2192; represent distance between point (5) and (17) in image
+    x &#x2192; represent distance between point (5) and (17) in image bellow
     y &#x2192; reprecent actual distance in centimeters
     this is one challenge of project to find relation to relate x and y, as relation is nonlinear
 
