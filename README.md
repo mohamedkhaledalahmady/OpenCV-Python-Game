@@ -18,6 +18,8 @@
    * _modules folder_ &#x2192; contain helper.py file taht contain some useful functions implemented 
    * _Makefile_ &#x2192; makfile to run python file
    * _Players.txt_ &#x2192; text file to store players name and their scores
+   * _images_ &#x2192; folder contain all images
+   * _video_ &#x2192; folder contain video while game running 
    
 > ## Setup and run game:
    * Clone project on your local machine 
