@@ -9,8 +9,9 @@
    * _Players.txt_ &#x2192; text file to store players name and their scores
    
 > ## Setup and running settings:
-   * Download `OpenCV` library:
+   * Download `OpenCV` library and other libraries:
         * by using pip package `pip install opencv-python`
+        * by using pip package `pip install cvzone`
    * Clone project on local machine 
    * open terminal in project directory
    * run code by typing `make` or `make run`
