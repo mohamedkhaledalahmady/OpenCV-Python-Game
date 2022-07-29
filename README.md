@@ -7,7 +7,7 @@
     y &#x2192; reprecent actual distance in centimeters
     this is one challenge of project to find relation to relate x and y, as relation is nonlinear.
    * Store players names and their scores in a file `Players.txt` and display at end of game max score till now.
-   * Game has down counter after exceed Game over, and has two options 
+   * Game has down counter after exceed it the Game Over, and has two options 
       * press `r` to repeat game
       * press `ESC` to end game
 <p style="text-align:center;">
