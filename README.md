@@ -19,7 +19,7 @@
    * _Players.txt_ &#x2192; text file to store players name and their scores
    
 > ## Setup and run game:
-   * Download `OpenCV` library and other libraries:
+   * Download `OpenCV` library and others libraries required:
         * by using pip package `pip install opencv-python`
         * by using pip package `pip install cvzone`
    * Clone project on local machine 
