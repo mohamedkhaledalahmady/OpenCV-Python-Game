@@ -17,7 +17,8 @@
    * Now, run the game and enjoy  <b>&#128522;</b>
 > ### Images:
 ![screen 0](https://user-images.githubusercontent.com/67025780/181832763-c4b08f8e-31be-4452-a599-5ff57a34950f.png)
-![screen 3](https://user-images.githubusercontent.com/67025780/181832998-e0eded1a-2f0b-472c-a17a-f9bb44e62e30.png)
+![screen 6](https://user-images.githubusercontent.com/67025780/181833142-effd913a-94c9-40cb-a985-738a7db53888.png)
+
 
 
 > ### Materials:
