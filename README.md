@@ -4,7 +4,7 @@
    
 > ## Contents:
    * _game.py_ --> source code of game
-   * _moduels folder_ --> contain helper.py file taht contain some useful functions implemented 
+   * _modules folder_ --> contain helper.py file taht contain some useful functions implemented 
    * _Makefile_ --> makfile ti run python file
    * _Players.txt_ --> text file to store players name and their scores
    
