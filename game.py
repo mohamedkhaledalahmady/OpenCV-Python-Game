@@ -31,12 +31,12 @@ counter = 0
 MAXSCORE = 5
 font = cv2.FONT_HERSHEY_SIMPLEX
 StartTime = time.time()
-GameTime = 20
+GameTime = 100
 # scores = []
 while True:
     sucess, img = cap.read()
     hands = detector.findHands(img,draw=False)
-    if (time.time() - StartTime < 20):
+    if (time.time() - StartTime < GameTime):
         if hands and not gameover:
             x1, y1, z1 = hands[0]["lmList"][5]
             x2, y2, z2 = hands[0]["lmList"][17]
