@@ -14,7 +14,7 @@
    * Clone project on local machine 
    * open terminal in project directory
    * run code by typing **make** or **make run**
-   * Now,run the game and enjoy  :)
+   * Now,run the game and enjoy  <b>&#128522</b>
 
 > ### Materials:
    *  
