@@ -9,7 +9,7 @@
    * _Players.txt_ --> text file to store players name and their scores
    
 > ## Setup and running settings:
-   * Download `OpenCV` library from:
+   * Download `OpenCV` library:
         * by using pip package `pip install opencv-python`
    * Clone project on local machine 
    * open terminal in project directory
