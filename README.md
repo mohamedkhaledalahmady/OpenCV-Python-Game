@@ -20,13 +20,6 @@
 <img src="images/screen%200.png" width="640" height="360">
 <img src="images/screen%206.png" width="640" height="360">
 
-
-
-
-
-> ### Materials:
-   *  
-   *
 > ### Video:
   * <a href="https://drive.google.com/file/d/1St52DaiI-QAjCqqSOWrf7c3OeruUm7kQ/view?usp=sharing">
             while game running
