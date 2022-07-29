@@ -6,7 +6,8 @@
    * To calculate distance of hand from camera, i do sequence of trail and collect data between x and y, where
     x &#x2192; represent distance between point (5) and (17) in image bellow
     y &#x2192; reprecent actual distance in centimeters
-    this is one challenge of project to find relation to relate x and y, as relation is nonlinear
+    this is one challenge of project to find relation to relate x and y, as relation is nonlinear.
+   * Store players names and their scores in a file `Players.txt` and display at end of game max score till now.
 <p style="text-align:center;">
    <img src="images/hand_landmarks.png" alt="Logo" width="771.5" height="269">
 </p>
