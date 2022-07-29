@@ -13,9 +13,12 @@
         * by using pip package `pip install opencv-python`
    * Clone project on local machine 
    * open terminal in project directory
-   * run code by typing **make** or **make run**
-   * Now,run the game and enjoy  <b>&#128522;</b>
-
+   * run code by typing `make` or `make run`
+   * Now, run the game and enjoy  <b>&#128522;</b>
+> ### Images:
+    <p align = "center">
+      <img src = "screen 0.png">
+  </p>  
 > ### Materials:
    *  
    *
