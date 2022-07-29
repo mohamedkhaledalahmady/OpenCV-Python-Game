@@ -31,7 +31,7 @@ counter = 0
 MAXSCORE = 5
 font = cv2.FONT_HERSHEY_SIMPLEX
 StartTime = time.time()
-GameTime = 100
+GameTime = 20
 # scores = []
 while True:
     sucess, img = cap.read()
