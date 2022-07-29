@@ -15,7 +15,7 @@
    * Clone project on local machine 
    * open terminal in project directory
    * run code by typing `make` or `make run`
-   * Now, run the game and enjoy  <b>&#128522;</b>
+   * enjoy &#128522;
 > ### Images:
 <img src="images/screen%200.png" width="640" height="360">
 <img src="images/screen%206.png" width="640" height="360">
