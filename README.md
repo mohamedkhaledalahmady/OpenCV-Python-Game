@@ -1,3 +1,5 @@
+![](images/screen%200.png)
+![](images/screen%206.png)
 # *OpenCV-Python-Game*
 > ## Game Description:
    * By using OpenCV library with python, able to implemented this game.
@@ -16,8 +18,7 @@
    * run code by typing `make` or `make run`
    * Now, run the game and enjoy  <b>&#128522;</b>
 > ### Images:
-![](images/screen%200.png)
-![](images/screen%206.png)
+
 
 
 
