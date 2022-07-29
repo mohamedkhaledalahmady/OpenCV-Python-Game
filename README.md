@@ -16,8 +16,8 @@
    * run code by typing `make` or `make run`
    * Now, run the game and enjoy  <b>&#128522;</b>
 > ### Images:
-![](images/screen%200.png)
-![](images/screen%206.png)
+![Playing Game](images/screen%200.png)
+![Game Over Screen](images/screen%206.png)
 
 
 
