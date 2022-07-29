@@ -18,7 +18,7 @@
    * _Makefile_ &#x2192; makfile ti run python file
    * _Players.txt_ &#x2192; text file to store players name and their scores
    
-> ## Setup and running settings:
+> ## Setup and run game:
    * Download `OpenCV` library and other libraries:
         * by using pip package `pip install opencv-python`
         * by using pip package `pip install cvzone`
