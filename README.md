@@ -16,7 +16,8 @@
    * run code by typing `make` or `make run`
    * Now, run the game and enjoy  <b>&#128522;</b>
 > ### Images:
-      ![screen 0](https://user-images.githubusercontent.com/67025780/181832498-4a55514c-9ef3-4d4c-a9a5-647ac709442b.png)
+![screen 0](https://user-images.githubusercontent.com/67025780/181832763-c4b08f8e-31be-4452-a599-5ff57a34950f.png)
+
 
 > ### Materials:
    *  
