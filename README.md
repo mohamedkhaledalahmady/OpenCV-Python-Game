@@ -4,10 +4,10 @@
    open and your work to push buttons that appear on screen. i used openCV and cvzone libraries with python to access camera and detect position of hand.
    * To calculate distance of hand from camera, i do sequence of trail and collect data between x and y, where
     x &#x2192; represent distance between point (5) and (17) in image bellow
-    y &#x2192; reprecent actual distance in centimeters
+    y &#x2192; represent actual distance in centimeters
     this is one challenge of project to find relation to relate x and y, as relation is nonlinear.
    * Store players names and their scores in a file `Players.txt` and display at end of game max score till now.
-   * Game has down counter after exceed it the Game Over, and has two options 
+   * Game has down counter after it exceed the Game Over, and has two options 
       * press `r` to repeat game
       * press `ESC` to end game
 <p style="text-align:center;">
